@@ -13,3 +13,8 @@ print ('Resultado = ', c)
 
 d = c * 200
 print ('resultado total = ', d)
+
+#Primero crear el archivo en GitHub 
+#Clonar desde GitHub hasta mi dispositivo 
+#Crear otro archivo desde VS Code y mandarlo con Commit y Push
+#Hacer modificaciones con Brunch
